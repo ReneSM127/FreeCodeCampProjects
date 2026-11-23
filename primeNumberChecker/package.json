@@ -1,0 +1,23 @@
+{
+  "name": "primenumberchecker",
+  "version": "1.0.0",
+  "description": "A simple Prime Number checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.text.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReneSM127/FreeCodeCampProjects.git"
+  },
+  "keywords": [
+    "simple",
+    "primeNumbers"
+  ],
+  "author": "Rene Sandoval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReneSM127/FreeCodeCampProjects/issues"
+  },
+  "homepage": "https://github.com/ReneSM127/FreeCodeCampProjects#readme"
+}
